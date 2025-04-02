@@ -8,11 +8,11 @@ Introduction & objectives
 
 **GOAL**
 
-Compare the performance of different machine learning **models**, for classification and regression tasks, focusing the attention on  **DATASETS Neural Networks**
+Compare the performance of different machine learning **models**, for classification and regression tasks, focusing the attention on  **Neural Networks**
 
 Regression: **ML-CUP23** Binary classification: **MONK** 
 
-Binary classification: **MONK 
+Binary classification: **MONK**
 - Neural Networks (Keras)
 - Support Vector Machine
 - K-Nearest Neighbors
